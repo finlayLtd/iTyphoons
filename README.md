@@ -85,7 +85,7 @@ I am Full Stack & Blockchain developer
 #### MERN stack 
 ##### [Online-shopping(clothes)](https://www.protest.eu/)
 <a href="https://www.protest.eu">
-     <img src="./images/httpswww.protest.eu.png" />
+     <img src="./images/httpswww.protest.eu.png" style="width: 100%;"/>
  </a>
  <br/>
 
@@ -107,7 +107,7 @@ I am Full Stack & Blockchain developer
 #### Vue.js 
 ##### [Online-Shopping](http://www.mikiyakobayashi.com/)
 <a href="http://www.mikiyakobayashi.com/">
-     <img src="./images/httpwww.mikiyakobayashi.png" />
+     <img src="./images/httpwww.mikiyakobayashi.png" style="width: 100%;"/>
  </a>
  <br/>
 <!-- 
