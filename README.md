@@ -73,27 +73,20 @@ I am Full Stack & Blockchain developer
 
 
 
-### DeFi Experiences
-#### NFT Mint Dapps
-##### [Funkiverse](https://funkifoxes.com/)
- <a href="https://funkifoxes.com/">
-     <img src="./images/Funkiverse.png">
- </a>
 
-#### NFT Marketplaces
+#### Frontend Design(NFT Marketplaces) 
 ##### [Pocoland](https://pocoland.com/nft-market)
 <a href="https://pocoland.com/nft-market">
      <img src="./images/pocoland.png" />
  </a>
 
+#### MERN stack 
+##### [climbing](https://www.protest.eu/)
+<a href="https://www.protest.eu">
+     <img src="./images/httpswww.protest.eu.png" />
+ </a>
 
-#### Staking
-##### [Nafter](https://staking.nafter.io)
-<a href="https://staking.nafter.io">
-      <img src="./images/staking-nafter.png" >
- </a>  
- 
-#### Defi, NFT Staking, NFT Marketplace
+#### Frontend Design(Defi, NFT Staking, NFT Marketplace)
  <div>
   <a href='https://dex.treedefi.com/' target='_blank'>
   <img src='./project/treedefi_dex.png' width='32%'></img>
@@ -106,10 +99,17 @@ I am Full Stack & Blockchain developer
   </a>
 </div>
 
-##### [EggPlant NFT Mint on Ethereum](https://eggplantnftmint.netlify.app/)
+
+#### Vue.js 
+##### [climbing](http://www.mikiyakobayashi.com/)
+<a href="http://www.mikiyakobayashi.com/">
+     <img src="./images/httpwww.mikiyakobayashi.png" />
+ </a>
+<!-- 
+##### Frontend Design([EggPlant NFT Mint on Ethereum])(https://eggplantnftmint.netlify.app/)
 <a href='https://eggplantnftmint.netlify.app/'>
 <img src='./project/eggplant_mint.png'></img>
-</a>
+</a> -->
 
 <!-- - [NFT Contract](https://rinkeby.etherscan.io/address/0x5098016A35851F6115816863f436dc3e85d999ED#code)
 - [Main Mint Frontend](https://github.com/ernestpapyan/EggPlant-NFT-Mint-App) -->
