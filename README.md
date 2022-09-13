@@ -22,8 +22,8 @@ I am currently working remotely.
 
 ❤️ **I'm passionate about:**
 
-I am blockchain developer
- I have 6+ years of experience writing blockchain web apps that span consumer productivity software to mission-critical financial trading platforms. I have extensive knowledge of smart contract, front-end JavaScript and browser APIs as well as significant experience with popular frameworks and libraries like React and Redux. As a full stack developer, my main programming language is Javascript, Solidty, Rust, Python. I have good experience with ❤️Rust❤️, Solidity, Web3, ❤️React.js❤️, Ethers, Python, Openzepplin. Particularly Solidity and Rust is my ❤️ framework and also I have rich experenice on React Framework(MERN), Truffle. Including framwork that said above, I have done 10+ web site with MERN, Nuxt, Next, Web3, Ethers.
+I am Full Stack & Blockchain developer
+ I have 6+ years of experience writing Full Stack web apps that span consumer productivity software to mission-critical financial trading platforms. I have extensive knowledge of smart contract, front-end JavaScript and browser APIs as well as significant experience with popular frameworks and libraries like React and Redux. As a full stack developer, my main programming language is Javascript, Solidty, PHP, Python. I have good experience with ❤️Next.js❤️, Solidity, Web3, ❤️React.js❤️, Ethers, Python, Openzepplin. Particularly Recat and Vue is my ❤️ framework and also I have rich experenice on React Framework(MERN), Truffle. Including framwork that said above, I have done 10+ web site with MERN, Nuxt, Next, Web3, Ethers.
 
 I have also strong technical understanding of various machine learning algorithms, including Neural networks and Deep learning.
 ### About Me
@@ -46,8 +46,7 @@ I have also strong technical understanding of various machine learning algorithm
     </tr>
 </table>
 
-### Git Work
-![Review](./doc/review.svg)
+
 
 ### DeFi Experiences
 #### NFT Mint Dapps
@@ -90,14 +89,4 @@ I have also strong technical understanding of various machine learning algorithm
 - [NFT Contract](https://rinkeby.etherscan.io/address/0x5098016A35851F6115816863f436dc3e85d999ED#code)
 - [Main Mint Frontend](https://github.com/ernestpapyan/EggPlant-NFT-Mint-App)
 
-### [Scorpfion Dragon NFT Marketplace on BSC](https://scorpfionnft.netlify.app/)
----
-<a href='https://scorpfionnft.netlify.app/'>
-<img src='./project/scorpfion_nftmarketplace.png'></img>
-</a>
 
-- [Marketplace Contract](https://github.com/ernestpapyan/marketplace_contract)
-- [Marketplace Subgraph]()
-- [Marketplace Backend](https://github.com/ernestpapyan/nearnauts-subgraph)
-- [Marketplace indexer]()
-- [Marketplace Main Frontend](https://github.com/ernestpapyan/marketplace-front-end)
