@@ -58,16 +58,18 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
       <td><img src="https://cdn.iconscout.com/icon/free/png-128/vue-282497.png" width="200"></td>
     </tr>
 </table>
+
 ---
-
-
 
 ❤️ **I'm passionate about:**
 
 I am Full Stack & Blockchain developer
- I have 6+ years of experience writing Full Stack web apps that span consumer productivity software to mission-critical financial trading platforms. I have extensive knowledge of smart contract, front-end JavaScript and browser APIs as well as significant experience with popular frameworks and libraries like React and Redux. As a full stack developer, my main programming language is Javascript, Solidty, PHP, Python. I have good experience with ❤️Next.js❤️, Solidity, Web3, ❤️React.js❤️, Ethers, Python, Openzepplin. Particularly Recat and Vue is my ❤️ framework and also I have rich experenice on React Framework(MERN), Truffle. Including framwork that said above, I have done 10+ web site with MERN, Nuxt, Next, Web3, Ethers.
+  I have 6+ years of experience writing Full Stack web apps that span consumer productivity     software to mission-critical financial trading platforms. 
+  As a full stack developer, my main programming language is Javascript, Solidty, PHP, Python. I have good experience with ❤️Next.js❤️, Solidity, Web3, ❤️React.js❤️, Ethers, Python, Openzepplin. 
+  Particularly Recat and Vue is my ❤️ framework and also I have rich experenice on React Framework(MERN), Truffle. 
+  Including framwork that said above, I have done 10+ web site with MERN, Nuxt, Next, Web3, Ethers.
 
-
+---
 
 
 
@@ -81,10 +83,11 @@ I am Full Stack & Blockchain developer
  </a>
 
 #### MERN stack 
-##### [climbing](https://www.protest.eu/)
+##### [Online-shopping(clothes)](https://www.protest.eu/)
 <a href="https://www.protest.eu">
      <img src="./images/httpswww.protest.eu.png" />
  </a>
+ <br/>
 
 #### Frontend Design(Defi, NFT Staking, NFT Marketplace)
  <div>
@@ -100,11 +103,13 @@ I am Full Stack & Blockchain developer
 </div>
 
 
+
 #### Vue.js 
-##### [climbing](http://www.mikiyakobayashi.com/)
+##### [Online-Shopping](http://www.mikiyakobayashi.com/)
 <a href="http://www.mikiyakobayashi.com/">
      <img src="./images/httpwww.mikiyakobayashi.png" />
  </a>
+ <br/>
 <!-- 
 ##### Frontend Design([EggPlant NFT Mint on Ethereum])(https://eggplantnftmint.netlify.app/)
 <a href='https://eggplantnftmint.netlify.app/'>
