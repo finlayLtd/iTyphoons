@@ -1,5 +1,5 @@
 
- ## Full Stack && Blockchain Developer
+ ## Full Stack && Mobile App Developer
 ![profile views](./doc/profileview.svg)
 
 <p align="center">
@@ -15,10 +15,9 @@
 
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
-- 📫 I am currently working remotely.
-- 🔭 I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- ⚡ I am currently working remotely.
+- 🔭 I’m working as a Software Engineer and contributing to frontend and backend for building web and mobile app applications.
 - 🌱 Exploring Technical Content Writing.
-- ⚡ In my free time I solve problems on GeeksforGeeks and read tech articles.
 
 ---
 
@@ -42,32 +41,15 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman"  alt="Postman" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
 </p>
-<table>
-  <tr>
-    <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_nft.png?raw=true" width="200"></td>
-      <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_defi.png?raw=true" width="200"></td>
-      <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_pancake.png?raw=true" width="200"></td>
-      <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_solidity.png?raw=true" width="200"></td>
-      <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_truffle.png?raw=true" width="200"></td>
-      <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_metamask.png?raw=true" width="200"></td>
-      <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_pivx.png?raw=true" width="200"></td>
-      <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_bitcoin.png?raw=true" width="200"></td>
-      <td><img src="https://cdn.iconscout.com/icon/free/png-128/node-1174925.png" width="200"></td>
-      <td><img src="https://cdn.iconscout.com/icon/free/png-128/react-1175109.png" width="200"></td>
-      <td><img src="https://cdn.iconscout.com/icon/free/png-64/angular-3-226070.png" width="200"></td>
-      <td><img src="https://cdn.iconscout.com/icon/free/png-128/vue-282497.png" width="200"></td>
-    </tr>
-</table>
 
 ---
 
 ❤️ **I'm passionate about:**
 
-I am Full Stack & Blockchain developer
-  I have 6+ years of experience writing Full Stack web apps that span consumer productivity     software to mission-critical financial trading platforms. 
-  As a full stack developer, my main programming language is Javascript, Solidty, PHP, Python. I have good experience with ❤️Next.js❤️, Solidity, Web3, ❤️React.js❤️, Ethers, Python, Openzepplin. 
-  Particularly Recat and Vue is my ❤️ framework and also I have rich experenice on React Framework(MERN), Truffle. 
-  Including framwork that said above, I have done 10+ web site with MERN, Nuxt, Next, Web3, Ethers.
+I am Full Stack & Mobile App developer
+  I have 6+ years of experience writing Full Stack web sites and flutter mobile applications. 
+  As a full stack developer, my main programming language is Javascript, Solidty, PHP, Python. I have good experience with ❤️Next.js❤️, Solidity, Web3, ❤️React.js❤️. 
+  Particularly React and Vue is my ❤️ framework and also I have rich experenice on express and laravel backend. 
 
 ---
 
