@@ -7,7 +7,7 @@
 </p>
 
   <a href="https://secure.joviride.com/" target="_blank">
-     <img src="./React.png" style="width: 100%;"/>
+     <img src="./images/first_logo.png" style="width: 100%;"/>
  </a>
 
 
