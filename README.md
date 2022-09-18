@@ -6,11 +6,9 @@
 
 </p>
 
-  <a href="https://secure.joviride.com/" target="_blank">
-     <img src="./images/first_logo.png" style="width: 100%;"/>
+ <a href="https://secure.joviride.com/" target="_blank" style = "width: -webkit-fill-available;">
+     <img src="./images/first_logo.png" style = "width: -webkit-fill-available;"/>
  </a>
-
-
 ### :woman_technologist: &nbsp;About Me :
 
 I am a Full Stack and flutter app dev. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
