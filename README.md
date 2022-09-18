@@ -6,9 +6,9 @@
 
 </p>
 
-<p align="center">
-  <img align="center" src="./React.png" href="https://secure.joviride.com/" target="_blank" style = "width: -webkit-fill-available;"/>
-</p>
+  <a href="https://secure.joviride.com/" target="_blank">
+     <img src="../React.png" style="width: 100%;"/>
+ </a>
 
 
 ### :woman_technologist: &nbsp;About Me :
