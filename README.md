@@ -7,7 +7,7 @@
 </p>
 
  <a href="https://secure.joviride.com/" target="_blank" style = "width: -webkit-fill-available;">
-     <img src="./images/first_logo.png" style = "width: -webkit-fill-available;"/>
+     <img src="./images/first_logo1.jpg" style = "width: -webkit-fill-available;"/>
  </a>
 ### :woman_technologist: &nbsp;About Me :
 
