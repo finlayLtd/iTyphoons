@@ -1,5 +1,5 @@
 
- ## Full Stack && Mobile App Developer
+ ## Full Stack Web && Flutter App Developer
 ![profile views](./doc/profileview.svg)
 
 <p align="center">
@@ -7,13 +7,13 @@
 </p>
 
 <p align="center">
-  <img align="center" src="./githublogo.jpg" style = "width: -webkit-fill-available;"/>
+  <img align="center" src="./React.png" href="https://secure.joviride.com/" target="_blank" style = "width: -webkit-fill-available;"/>
 </p>
 
 
 ### :woman_technologist: &nbsp;About Me :
 
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+I am a Full Stack and flutter app dev. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
 - ⚡ I am currently working remotely.
 - 🔭 I’m working as a Software Engineer and contributing to frontend and backend for building web and mobile app applications.
@@ -56,7 +56,12 @@ I am Full Stack & Mobile App developer
 
 
 
-
+#### Vue.js 
+##### [Online-Shopping](http://www.mikiyakobayashi.com/)
+<a href="http://www.mikiyakobayashi.com/" target="_blank">
+     <img src="./images/httpwww.mikiyakobayashi.png" style="width: 100%;"/>
+ </a>
+ <br/>
 
 #### Frontend Design(NFT Marketplaces) 
 ##### [Pocoland](https://pocoland.com/nft-market)
@@ -86,19 +91,6 @@ I am Full Stack & Mobile App developer
 
 
 
-#### Vue.js 
-##### [Online-Shopping](http://www.mikiyakobayashi.com/)
-<a href="http://www.mikiyakobayashi.com/" target="_blank">
-     <img src="./images/httpwww.mikiyakobayashi.png" style="width: 100%;"/>
- </a>
- <br/>
-<!-- 
-##### Frontend Design([EggPlant NFT Mint on Ethereum])(https://eggplantnftmint.netlify.app/)
-<a href='https://eggplantnftmint.netlify.app/'>
-<img src='./project/eggplant_mint.png'></img>
-</a> -->
 
-<!-- - [NFT Contract](https://rinkeby.etherscan.io/address/0x5098016A35851F6115816863f436dc3e85d999ED#code)
-- [Main Mint Frontend](https://github.com/ernestpapyan/EggPlant-NFT-Mint-App) -->
 
 
