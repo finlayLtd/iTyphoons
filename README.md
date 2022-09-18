@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img align="center" src="./React.png" href="https://secure.joviride.com/" target="_blank" style = "width: -webkit-fill-available;"/>
+  <img align="center" src="./images/React.png" href="https://secure.joviride.com/" target="_blank" style = "width: -webkit-fill-available;"/>
 </p>
 
 
