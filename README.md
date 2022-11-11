@@ -12,7 +12,7 @@
 
 ### :woman_technologist: &nbsp;About Me :
 
-I am a Full Stack and flutter app dev. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+I am php and javascript developer who majors in Laravel,Vue,React,Node.js <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
 - ⚡ I am currently working remotely.
 - 🔭 I’m working as a Software Engineer and contributing to frontend and backend for building web and mobile app applications.
@@ -45,9 +45,9 @@ I am a Full Stack and flutter app dev. <img src="https://media.giphy.com/media/W
 
 ❤️ **I'm passionate about:**
 
-I am Full Stack & Mobile App developer
+I am Laravel backend & Vue,React frontend developer
   I have 6+ years of experience writing Full Stack web sites and flutter mobile applications. 
-  As a full stack developer, my main programming language is Javascript, Solidty, PHP, Python. I have good experience with ❤️Next.js❤️, Solidity, Web3, ❤️React.js❤️. 
+  As a full stack developer, my main programming language is Javascript, laravel, PHP, Python. I have good experience with ❤️Next.js❤️, Nuxt, typescript, ❤️web3❤️. 
   Particularly React and Vue is my ❤️ framework and also I have rich experenice on express and laravel backend. 
 
 ---
@@ -87,9 +87,3 @@ I am Full Stack & Mobile App developer
   <img src='./project/treedefi_nftstaking.png' width='32%'></img>
   </a>
 </div>
-
-
-
-
-
-
