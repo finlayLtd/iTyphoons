@@ -1,5 +1,5 @@
 
- ## Full Stack Web && Flutter App Developer
+ ## Full Stack Web(Laravel,Vue,React,Node.js)Developer
 ![profile views](./doc/profileview.svg)
 
 <p align="center">
